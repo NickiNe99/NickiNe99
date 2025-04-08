@@ -5,8 +5,7 @@ Hi, I'm Nicki Norouzi Esfahani! I'm a passionate developer with a knack for crea
 
 
 - 🌱 I’m currently exploring **AWS** and **Data Visualization**.
-- 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 💬 Ask me about **Java**, **SQl**, and **Python**.
+- 💬 Ask me about **Java**, **SQl**.
 - 📫 How to reach me: [nickinorouzi@gmail.com](nickinorouzi@gmail.com)
 
 ## 📫 Connect with Me
